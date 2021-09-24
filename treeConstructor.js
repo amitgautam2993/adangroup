@@ -27,3 +27,5 @@ i1[childNode]= i2;
 }
 return true;
 }
+
+console.log(TreeConstructor( ["(1,2)", "(2,4)", "(5,7)", "(7,2)", "(9,5)"]))
